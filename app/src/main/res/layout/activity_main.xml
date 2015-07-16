@@ -7,12 +7,13 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight="0.7"
-        android:id="@+id/fram1"></FrameLayout>
+        android:layout_weight="0.6"
+        android:id="@+id/fram1"/>
+
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight="0.3"
-        android:id="@+id/fram2"></FrameLayout>
+        android:layout_weight="0.4"
+        android:id="@+id/fram2"/>
 
 </LinearLayout>
