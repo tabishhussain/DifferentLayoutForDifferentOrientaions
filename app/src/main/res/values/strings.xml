@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DifferentLayoutForDifferent Orientaions</string>
+    <string name="app_name">Parceable Object</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
